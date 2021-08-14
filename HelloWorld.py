@@ -1,2 +1,2 @@
-A="GOOD START ShortCut"
+A="WORKING finally"
 print(A)
